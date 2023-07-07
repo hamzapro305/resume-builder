@@ -1,0 +1,1 @@
+export type LayoutT = (props: { children: ReactNode }) => ReactNode;
