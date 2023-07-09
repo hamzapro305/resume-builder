@@ -1,5 +1,5 @@
 import { LayoutT } from "@/Types/Basic";
-import { Provider } from "@/store/Provider";
+import { Provider } from "@/Store/Provider";
 
 const layout: LayoutT = ({ children }) => {
     return (

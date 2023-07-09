@@ -1,3 +1,4 @@
 .HomePage {
-    padding: 25px;
+	display: grid;
+	grid-template-columns: 1fr auto;
 }
